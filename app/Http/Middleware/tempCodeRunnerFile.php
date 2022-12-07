@@ -1,0 +1,2 @@
+<?php
+Auth::guard($guard)
