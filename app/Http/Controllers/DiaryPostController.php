@@ -9,7 +9,7 @@ use Illuminate\Support\Facades\Auth;
 define("CONST_LINES_PAGE", 5);
 define("CONST_PUBLIC_IMG",'img/public');
 
-class PhotoController extends Controller
+class DiaryPostController extends Controller
 {
     //検索
     public function index()  // this function show data in Table

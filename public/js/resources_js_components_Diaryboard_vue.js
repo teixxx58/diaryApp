@@ -48,7 +48,7 @@ __webpack_require__.r(__webpack_exports__);
           jquery__WEBPACK_IMPORTED_MODULE_0___default()('.im').show();
         };
       } else {
-        alert('File size can not be bigger than 2 MB');
+        alert('ファイルサイズが2 MBを超えてます。');
       }
     },
     newDiaryUpload: function newDiaryUpload() {
